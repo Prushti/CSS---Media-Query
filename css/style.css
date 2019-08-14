@@ -86,3 +86,9 @@ div {
   }
 }
 
+@media screen and (min-width: 1199px){
+   .preview {
+    margin: 1%;
+    width: 48%;
+  }
+}
